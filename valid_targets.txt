@@ -1,0 +1,59 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
+./test/channel.js
+./test/util.js
+./test/callback_api.js
+./test/mux.js
+./test/connect.js
+./test/channel_api.js
+./test/codec.js
+./test/data.js
+./test/bitset.js
+./test/connection.js
+./test/frame.js
+./bin/generate-defs.js
+./callback_api.js
+./channel_api.js
+./examples/ssl.js
+./examples/tutorials/send.js
+./examples/tutorials/new_task.js
+./examples/tutorials/receive_logs_topic.js
+./examples/tutorials/worker.js
+./examples/tutorials/receive.js
+./examples/tutorials/emit_log.js
+./examples/tutorials/emit_log_topic.js
+./examples/tutorials/rpc_server.js
+./examples/tutorials/emit_log_direct.js
+./examples/tutorials/callback_api/send.js
+./examples/tutorials/callback_api/new_task.js
+./examples/tutorials/callback_api/receive_logs_topic.js
+./examples/tutorials/callback_api/worker.js
+./examples/tutorials/callback_api/receive.js
+./examples/tutorials/callback_api/emit_log.js
+./examples/tutorials/callback_api/emit_log_topic.js
+./examples/tutorials/callback_api/rpc_server.js
+./examples/tutorials/callback_api/emit_log_direct.js
+./examples/tutorials/callback_api/rpc_client.js
+./examples/tutorials/callback_api/receive_logs_direct.js
+./examples/tutorials/callback_api/receive_logs.js
+./examples/tutorials/rpc_client.js
+./examples/tutorials/receive_logs_direct.js
+./examples/tutorials/receive_logs.js
+./lib/channel.js
+./lib/callback_model.js
+./lib/format.js
+./lib/api_args.js
+./lib/mux.js
+./lib/connect.js
+./lib/error.js
+./lib/codec.js
+./lib/heartbeat.js
+./lib/bitset.js
+./lib/connection.js
+./lib/frame.js
+./lib/channel_model.js
+./valid_targets.txt
