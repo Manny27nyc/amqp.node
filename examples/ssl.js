@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Example of using a TLS/SSL connection. Note that the server must be
 // configured to accept SSL connections; see, for example,
 // http://www.rabbitmq.com/ssl.html.

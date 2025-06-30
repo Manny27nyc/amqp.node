@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 var raw_connect = require('./lib/connect').connect;
 var CallbackModel = require('./lib/callback_model').CallbackModel;
 

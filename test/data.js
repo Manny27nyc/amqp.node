@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Property-based testing representations of various things in AMQP
 
 'use strict';
